@@ -1,4 +1,5 @@
-<b>The scenario:</b>
+# Customer Churn Analysis
+## The Scenario
 
 The Customer Retention Marketing team of a telecommunications company would like to use data about customers that churn and customers that stay to inform their decision making. 
 
@@ -6,7 +7,7 @@ They would like to know the demographic of churners, what products the have, and
 
 The project brief and data can be found in the 'Data and Brief' folder.
 
-<b>The project:</b>
+## The Project
 
 The tools used in this project include: Python and Python libraries (pandas, numpy, matplotlib, seaborn, sklearn, statsmodels).
 
