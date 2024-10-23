@@ -32,7 +32,7 @@ The dataset contains information on customers, their demographics, product usage
 * **Service Information:** Types of products and services subscribed to.
 * **Churn Label:** A binary label indicating whether the customer has churned (1) or not (0).
 
-The dataset is stored in the 'Data and Brief' folder and was cleaned and preprocessed for analysis and modeling.
+The dataset is stored in the 'Data and Brief' folder and was cleaned and preprocessed for analysis and modelling.
 
 ### Data Cleaning and Exploratory Data Analysis (EDA)
 
@@ -64,7 +64,9 @@ The final combined model improves prediction accuracy by averaging the probabili
   * 0 - Project Info.pdf: Project brief
   * 1 - Project Data.xlsx: Project data in Excel format.
   * swan_data.csv: Project data in csv format.
+    
 * Experimenting with Predictive Models: Folder containing experiments with different predictive models, including logistic regression and random forest. Each model generates a CSV file of high-risk churners and churn probabilities.
+
 * For Submission: Folder containing the final models, the combined model, and all necessary artifacts for submission.
   * EDA Swan Consulting.ipynb: Jupyter notebook for data cleaning and exploratory data analysis.
   * Info Deck.pdf: Slide deck summarising key findings from the EDA.
